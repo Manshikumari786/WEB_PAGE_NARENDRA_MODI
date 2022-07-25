@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+		/* Styling the body element
+		like body color and margin */
+		
+		body {
+			background-color:skyblue;
+			margin: 15%
+		}
+
+		/* Styling Title and giving
+		shadow to the title */
+		#title {
+			text-align: center;
+			text-shadow: 10px 5px 10px white;
+            color: black;
+			
+		}
+
+        img {
+            display: inline-block;
+            width: 100%;
+        }
+		
+		/* Setting font color and font
+		size of the image-caption */
+		#caption {
+			font-size: 17px;
+			font-family: Gill Sans;
+			color: black;
+		}
+
+		/* Styling the content of the page like-
+		padding, font-size, font color etc.*/
+		div#tribute-data {
+			background-color: rgb(46, 139, 87, 0.25);
+			
+			font-family: Georgia;
+			padding: 25px 25px;
+			margin: 11px;
+			margin-top: 50px;
+		}
+
+		/* Styling the title of the content */
+		h1.title {
+			font-size: 35px;
+			color:   darkblue;
+			text-align: center;
+			
+		}
+
+		/* Styling the link provided at the end */
+		#tribute-link {
+			text-decoration: none;
+			color: black;
+		}
+	</style>
+</head>
+
+<body>
+	<main id="main">
+
+		<!-- Title of the page -->
+		<h1 id="title">
+			Narendra Damodardas Modi
+		</h1>
+<img src="https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1652495106.webp" alt="Narendra Modi"  height="75%" width="75%"  />
+		
+
+			<!--Image of the Tribute Person-->
+			<small id="caption">
+				One Of Greatest  Indian 
+				politician Narendra Damodardas Modi serving as  prime minister of India since 2014 who played a leading
+				role in the  growth and development of India.
+		
+			</small>
+	
+
+		<div id="tribute-data">
+
+			<!--Achievements and other
+				details of the person-->
+			<h1 class="title">
+				About the Legend
+			</h1>
+
+			
+
+<p>
+ <ul>
+
+    <li><strong> INTRO </strong><br/>Narendra Modi, in full Narendra Damodardas Modi, (born September 17, 1950, Vadnagar, India), Indian politician and government official who rose to become a senior leader of the Bharatiya Janata Party (BJP). In 2014 he led his party to victory in elections to the Lok Sabha (lower chamber of the Indian parliament), after which he was sworn in as prime minister of India. Prior to that he had served (2001–14) as chief minister (head of government) of Gujarat state in western India.</li><br/>
+    <li><strong>Family and Personal Background of Narendra Modi</strong><br/>
+        Narendra Damodardas Modi was born to a family of grocers in a town called Vadnagar in Mehsana district of Gujarat. He was born on 17 September, 1950 to Damodardas Mulchand Modi and Heeraben Modi. The couple had six children among which Narendra Modi was the third eldest.</li><br/><br/>
+    <li><strong>Political Career of Narendra Modi</strong><br/>
+        Narendra Modi always had the utmost zeal and enthusiasm to serve and help the people in need. As a young boy, Narendra Modi offered his services voluntarily to the soldiers at the railway stations during the Indo-Pak war in 1965. He also served affected people during the 1967 Gujarat floods. Modi started working in the Gujarat State Road Transport Corporation’s staff canteen. Eventually from there he became a full-time proponent and campaigner, commonly called a 'pracharak', of the RSS. Modi later underwent training at the RSS camp in Nagpur. It is a prerequisite for any RSS member to take up the training course for holding any official position in the Sangh Parivar. Narendra Modi was given charge of the student wing, which is better known as Akhil Bharatiya Vidyarthi Parishad (ABVP). His contribution to the Anti-emergency movement impressed senior political leaders</li><br/><br/>
+    <li><strong>Political Journey of Narendra Modi</strong><br/>
+        <ul>
+            <li>Became the General Secretary of the BJP's Gujarat unit in 1988.</li>
+            <li>Recognised as a key strategist for being instrumental in successfully campaigning for the party in the 1995 and 1998 Gujarat Assembly elections, which made the BJP the ruling party in Gujarat.
+                Successfully organised two challenging events on national level: the Somnath to Ayodhya Rath Yatra, which was a long march by L. K. Advani and a march from Kanyakumari (southern tip of India) to Kashmir (the northern tip) undertaken by Murli Manohar Joshi. These two events are considered to have contributed in bringing the BJP to power in 1998.</li>
+            <li>In 1995, Narendra Modi was appointed as the Secretary of the BJP's national unit.</li>
+            <li>Narendra Modi was credited for having successfully carried out the responsibility of revamping the party organisation in different states.</li>
+            <li>In 1998, Narendra Modi was promoted as General Secretary and held the position till October 2001.</li>
+            <li>Narendra Modi became the Chief Minister of the state of Gujarat for the first time in October 2001 when his predecessor Keshubhai Patel resigned from the post following the defeat of BJP in by-elections.</li>
+            <li>After winning the Gujarat Assembly elections three consecutive times and holding the position of the state's chief minister, Modi contested the 2014 Lok Sabha elections for the first time. He won the elections by a grand margin and became the Prime Minister of India following the win.</li><br/>
+           
+        </li> <br/> </ul>
+        <li> <strong> Schemes Launched by Prime Minister Narendra Modi</strong>
+            <ul>
+                <li>Pradhan Mantri Jan Dhan Yojana (for financial inclusion) </li>
+                <li>Swachch Bharat Mission (for clean public places and better sanitation facilities)</li>
+                <li>Pradhan Mantri Ujjwala Yojana (provision of LPG to families living BPL) </li>
+                <li>Pradhan Mantri Fasal Bima Yojana (insurance against crop failure) </li>
+                <li>Mudra Bank Yojana (banking services for Medium and Small Enterprises) </li>
+                <li>Garib Kalyan Yojana (address welfare needs of the poor) </li>
+                <li>Sukanya Samriddhi Yojana (financial empowerment of the girl child) </li>
+            </ul><br/>
+        </li>
+        
+            <br/>
+            <li>  <strong> Book written by Narendra Modi </strong>
+                <ul>
+            <li><strong>Jyotipunj</strong>
+            'Jyotipunj' gives a description of all the people who Narendra Modi believes inspired him and had a strong influence on his work. Modi was associated with the Rashtriya Swayamsevak Sangh (RSS) initially as a worker and then as a ‘pracharak’. He gives a detailed insight into the life of the people who inspired him. The book also contains a reflection of thoughts of these people.</li><br/>
+            
+            <li> <strong>Abode of Love</strong>
+            ‘Abode of Love’ is a compendium of eight short stories written by Narendra Modi. It was written by Modi at a very young age. These stories reveal the sensitive and affectionate aspect of his character. Modi believes that the love of a mother is the source of all love and it is the greatest love. Whatever be the kind of love – of lovers, of friends etc – all are the reflections of a mother's love. The book unravels the layers of human relationships in a beautiful way.</li>
+            <br/>
+            <li> <strong>Premtirth</strong>
+            'Premtirth' is a collection of short stories written by Narendrabhai Modi. In this book, he draws a soulful portrayal of motherly feelings in a very simple and yet impressive language.</li><br/>
+            
+            <li><strong>Kelve Te Kelavani</strong>
+            ‘Kelave te Kelavani’ means ‘education is that which nurtures’. The book is a compilation of words of wisdom by Narendra Modi, India's Prime Minister. The book brings forth his thoughts and his vision to bring about a knowledge revolution in Gujarat. It shows his love for education.</li>
+            <br/>
+            <li> <strong>Sakshibhav</strong>
+            'Sakshibhav' consists of a series of letters addressed to Jagat Janani Maa. It describes the journey of inner-self of Narendra Modi and his feelings. The book brings forth the emotional thoughts of Modi at the time of his struggle when he was a worker with RSS.</li></li></ul>
+            <br/><br/>
+    
+	
+
+
+		</div>
+		<br/>
+		 
+           <strong>  By Manshi Kumari </strong>
+	</main>
+</body>
+
+</html>
